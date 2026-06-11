@@ -1,5 +1,5 @@
 # 💫 About Me:
-I currently work at MDRRMO (Manila Disaster Risk Reduction and Management Office) under the GIS Office<br>I enjoy reading and writing<br>I am currently exploring the world of designing and content creation<br>I am a Graduating Information Technology Student (4th Year)<br>
+I am a Bachelor of Science in Information Technology student at DLSU-D with a unique intersection of skills: precise, data-driven technical expertise in GIS, Python, and Cybersecurity combined with empathetic, highly organized student governance. I've authored senate resolutions, built spatial maps for disaster management, and consistently earned First Honors — all while mentoring future student leaders.
 
 
 ## 🌐 Socials:
