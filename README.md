@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Bachelor of Science in Information Technology student at DLSU-D with a unique intersection of skills: precise, data-driven technical expertise in GIS, Python, and Cybersecurity combined with empathetic, highly organized student governance. I've authored senate resolutions, built spatial maps for disaster management, and consistently earned First Honors — all while mentoring future student leaders.
+I am a Bachelor of Science in Information Technology graduate from DLSU-D with a unique intersection of skills: precise, data-driven technical expertise in GIS, Python, and Cybersecurity combined with empathetic, highly organized student governance. I've authored senate resolutions, built spatial maps for disaster management, and consistently earned First Honors — all while mentoring future student leaders.
 
 
 ## 🌐 Socials:
